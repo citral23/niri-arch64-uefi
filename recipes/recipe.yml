@@ -34,7 +34,6 @@ modules:
         - eog
         - fastfetch
         - fira-code-fonts
-        - firefox
         - freerdp
         - gnome-calculator
         - gnome-clocks
@@ -60,7 +59,6 @@ modules:
         - virt-manager
         - wayvnc
         - wlsunset
-        - xfce-polkit
         - yazi
         - zed
 
